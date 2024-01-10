@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "title": "Эрл грей",
+      "description": "Классика",
+      "img": "file:///C:\\Users\\Щекотаня\\Desktop\\task5\\assets\\earl-grey.png",
+      "code": 2,
+      "provider": "ИП 'Фруктовый мир'"
+    },
+    {
+      "id": 4,
+      "title": "Медведь",
+      "description": "Ты же наш сибирский!",
+      "img": "./assets/bear.png",
+      "code": "3",
+      "provider": "ОАО 'ааооо'"
+    },
+    {
+      "id": 5,
+      "title": "Пиво",
+      "description": "Не эсса",
+      "img": "file:///C:\\\\Users\\\\Щекотаня\\\\Desktop\\\\task5\\\\assets\\\\essa.png",
+      "code": 4,
+      "provider": "ИП 'Фруктовый мир'"
+    },
+    {
+      "id": 7,
+      "title": "Я приехала",
+      "description": "Так и знала от*****, словно сердце чуяло",
+      "img": "https://avatars.mds.yandex.net/i?id=688e68b0a04c4800bb6894062092b6f8ad66b85f-5256771-images-thumbs&n=13",
+      "code": 432,
+      "provider": "В колхоз имени мичурина"
+    },
+    {
+      "title": "клубничка",
+      "description": "ягодка не с оранжевого ютуба)))",
+      "img": "file:///C:\\\\Users\\\\Щекотаня\\\\Desktop\\\\task5\\\\assets\\\\strawberry.png",
+      "code": 5,
+      "provider": "ИП 'Фруктовый мир'",
+      "id": 8
+    }
+  ],
+  "creatorInfo": {
+    "name": "Майборода Татьяна",
+    "group": "6409",
+    "repo": "#"
+  }
+}

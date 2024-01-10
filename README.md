@@ -1,14 +1,9 @@
-# tinek
-Майборода Татьяна Андреевна
+### AJAX Task
+#### Для запуска:
+Для запуска программы необходимо выполнить в терминале: npm install json-server
+После установки API, выполните в терминале: npx json-server --watch db.json
+Далее нужно просто открыть файл index.html в браузере.
+#### 
 
-ПМИ
+![image](https://github.com/keksic0/tinek/assets/79083941/6080c5e0-4a52-417a-9b86-6625f6a9f23c)
 
-4 курс
-
-группа the Hatters))))
-
-группа 6409
-
-"Вот у кого-то это щелкает, а у кого-то нет"
-
-![image](https://github.com/keksic0/tinek/assets/79083941/19bbe73b-c7a9-45dc-8906-f73f1ddb1cf8)
